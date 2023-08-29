@@ -13,6 +13,6 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 -         [8,11,12,16,21,22]
 
 Big-O gösterimini yazınız.
-``
+```
 Her seferinde ikiye bölündüğü için 2^x=n --> logn -->    O(nlogn)
-``
+```
